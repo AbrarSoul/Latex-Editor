@@ -17,8 +17,8 @@ A modern web-based LaTeX editor with live preview and syntax highlighting.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/latex-editor.git
-cd latex-editor
+git clone https://github.com/AbrarSoul/Latex-Editor.git
+cd Latex-Editor
 ```
 
 2. Install dependencies:
